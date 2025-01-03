@@ -1,0 +1,4 @@
+sample_id,reference,fastq_1,fastq_2
+20241227JD1_haploreads,./docs/example_data/haplo_01.fasta,./docs/example_data/20241227JD1_haploreads_R1.fastq.gz,./docs/example_data/20241227JD1_haploreads_R2.fastq.gz
+20241227JD1_haploreads_asm,,./docs/example_data/20241227JD1_haploreads_R1.fastq.gz,./docs/example_data/20241227JD1_haploreads_R2.fastq.gz
+

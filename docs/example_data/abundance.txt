@@ -1,0 +1,2 @@
+haplo_01	0.8
+haplo_01_10_4500_variant	0.2

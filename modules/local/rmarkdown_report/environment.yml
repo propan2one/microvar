@@ -1,0 +1,6 @@
+name: rmarkdown
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bioconda::fastp=0.24.0

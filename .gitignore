@@ -1,0 +1,11 @@
+.nextflow*
+conda_cache/
+pipeline_info/
+work/
+data/
+results/
+.DS_Store
+testing/
+testing*
+*.pyc
+null/
