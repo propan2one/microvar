@@ -1,8 +1,10 @@
 # MicroVar 
 
-A Nextflow pipeline example for basic omics analysis
+A very basic analysis pipeline for genomic analysis. Consider using [nfcore pipelines](https://nf-co.re/) for real projects, the code here is available for research and educational purposes.
 
 ## Introduction
+
+The aim of this pipeline is to put the nextflow framework to the test in the context of 3rd and 4th generation pipeline utilization (see [blogpost](https://jeandelmotte.com/posts/bioinformatics-generation/)).
 
 ## Pipeline summary
 
@@ -10,11 +12,9 @@ A Nextflow pipeline example for basic omics analysis
 
 If you would like to contribute to this pipeline, please see the [contributing guidelines](.github/CONTRIBUTING.md).
 
-For further information or help, don't hesitate to get in touch on the [Slack `#bacass` channel](https://nfcore.slack.com/channels/bacass) (you can join with [this invite](https://nf-co.re/join/slack)).
+## Acknowledgements & citations
 
-## Citations
-
-If you use nf-core/bacass for your analysis, please cite it using the following doi: [10.5281/zenodo.2669428](https://doi.org/10.5281/zenodo.2669428)
+This work is based on Luke Pembleton blog post [Building With Resume](https://lpembleton.rbind.io/posts/build-with-resume/) but also on [Bacass](https://github.com/nf-core/bacass) from [Alex Peltzer](https://github.com/apeltzer), [Daniel Straub](https://github.com/d4straub) &  [Daniel Valle-Millares](https://github.com/Daniel-VM).
 
 An extensive list of references for the tools used by the pipeline can be found in the [`CITATIONS.md`](CITATIONS.md) file.
 
