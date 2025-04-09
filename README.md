@@ -1,5 +1,7 @@
 # MicroVar 
 
+This project is no longer developed here and will be **migrated to codeberg**: https://codeberg.org/JeanDelmotte/inSilicoGenome
+
 A very basic analysis pipeline for genomic analysis. Consider using [nfcore pipelines](https://nf-co.re/) for real projects, the code here is available for research and educational purposes.
 
 ## Introduction
